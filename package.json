@@ -64,7 +64,6 @@
     "jiti": "^2.6.1",
     "js-tokens": "^4.0.0",
     "lightningcss": "^1.30.2",
-    "lightningcss-win32-x64-msvc": "^1.30.2",
     "lodash": "^4.17.21",
     "loose-envify": "^1.4.0",
     "magic-string": "^0.30.21",
@@ -108,23 +107,10 @@
     "victory-vendor": "^36.9.2"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "next dev",
     "build": "next build",
     "start": "next start"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/preethi123455/preethiportfolio.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/preethi123455/preethiportfolio/issues"
-  },
-  "homepage": "https://github.com/preethi123455/preethiportfolio#readme",
-  "description": "",
   "engines": {
     "node": "20.x"
   }
